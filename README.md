@@ -25,7 +25,7 @@ LINUX/MAC
 On Sheel Bash:
 
 chmod +x bouncy.py
-python firstprogram.py
+python bouncy.py
 
 
 
